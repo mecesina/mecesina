@@ -24,7 +24,7 @@ Hi, I'm Ksenia, a passionate backend developer with a knack for creating efficie
 - 🤝 I’m looking to collaborate on **open-source projects** and **innovative web applications**.
 - 💬 Ask me about **C#**, **unit testing**, **Git**, my journey as a developer, Swedish labour market or pretty much anything. 
 
-- 📫 How to reach me: search on Discord for [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/mecesina)
+- 📫 How to reach me: [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/mecesina)
 
 <!-- 
 - ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
@@ -59,9 +59,10 @@ alt="Intellij" width="30" height="30" />
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dot-net/dot-net-original.svg"
 alt="dotNet" width="30" height="30" />
-<img scr="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original-wordmark.svg" 
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original-wordmark.svg" 
 alt="java" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" />
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="30" height="30"/>
 </p>
 
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30" /> -->
@@ -80,7 +81,8 @@ alt="java" width="30" height="30" />
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
+</p>
+<p align="left">
 <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/azure/azure-original.svg" alt="azure" width="30" height="30"/>
-<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="30" height="30"/>
 </p>
 
