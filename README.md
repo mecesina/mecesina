@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## About Me 😄
+## About Me
 
-Hi, I'm Ksenia, a passionate backend developer with a knack for creating efficient, secure, testable and scalable solutions. My journey in tech spans development in .NET, Java, REST APIs, SQL and other. I'm always excited to learn new technologies and collaborate on exciting projects.
+Hi, I'm Ksenia, a passionate backend developer with a knack for creating efficient, secure, testable and scalable solutions. My journey in tech spans development in .NET, Java, REST APIs, SQL and other. I'm always excited to learn new technologies and collaborate on exciting projects.Hi, I'm Ksenia — a passionate backend developer with a knack for building efficient, secure, testable, and scalable solutions. My journey in tech spans development with .NET, Java, RESTful APIs, SQL, and more. I'm always eager to explore new technologies and collaborate on meaningful, impactful projects.
 
 
 - 🌱 I’m currently exploring **Cloud Technologies** and **Design Patterns**.
@@ -42,32 +42,26 @@ I also enjoy sharing my knowledge through writing and blogging. Here are some of
 ## 📫 Connect with Me
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/kseniagladkikh).
-<!--
- or check out my [personal website](https://silentbob.dev).
--->
+
 ## 🛠️ Tools I Use
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30"/>
-<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/eclipse/eclipse-original.svg"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg"
 alt="eclipse" width="30" height="30" />
-<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/intellij/intellij-original.svg" 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" 
 alt="Intellij" width="30" height="30" />
 </p>
 
 <p align="left">
-<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dot-net/dot-net-original.svg"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"
 alt="dotNet" width="30" height="30" />
-<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original-wordmark.svg" 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" 
 alt="java" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" />
-<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="30" height="30"/>
 </p>
-
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30" /> -->
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="30" height="30"/> -->
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="30" height="30"/> -->
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="30" height="30"/>
@@ -75,7 +69,7 @@ alt="java" width="30" height="30" />
 </p>
 
 <p align="left">
-<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/windows11/windows11-original.svg" alt="windows11" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" alt="windows11" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
 </p>
 
@@ -83,6 +77,6 @@ alt="java" width="30" height="30" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
 </p>
 <p align="left">
-<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/azure/azure-original.svg" alt="azure" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="30" height="30"/>
 </p>
 
